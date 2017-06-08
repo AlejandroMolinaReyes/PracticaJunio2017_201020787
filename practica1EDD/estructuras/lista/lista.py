@@ -1,0 +1,2 @@
+def lista():
+	print("lista")
