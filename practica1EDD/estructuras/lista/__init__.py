@@ -1,1 +1,1 @@
-from .lista import *
+from .lista import Lista

@@ -1,1 +1,1 @@
-from .lista import * #.lista el nombre del paquete
+from .lista import Lista
